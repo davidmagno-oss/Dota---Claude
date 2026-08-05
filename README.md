@@ -7,8 +7,10 @@ longo, YouTube) sobre Dota 2, sempre ancorada em dados/eventos recentes
 ## Como funciona
 
 1. Uma **Rotina** (agendamento automático) dispara todo dia às **08:00
-   BRT (11:00 UTC)**.
-2. A cada disparo, uma sessão nova do Claude:
+   BRT (11:00 UTC)**, sempre nesta mesma conversa (necessário para manter
+   acesso ao conector do Trello — rotinas em sessão nova não podem usar
+   conectores nesta organização).
+2. A cada disparo, o Claude:
    - Pesquisa dados recentes de meta (pub e competitivo), patch atual e
      jogadas/partidas em destaque dos últimos 3–5 dias, via `WebSearch`
      (busca na web, referenciando Dotabuff, Dotaprotracker e OpenDota).
@@ -18,7 +20,7 @@ longo, YouTube) sobre Dota 2, sempre ancorada em dados/eventos recentes
    - Salva o briefing em `briefings/AAAA-MM-DD.md`, commita e dá push.
    - Cria um card no Trello, board **"Criação de conteúdo"**, lista
      **"Ideias"**, com a lista de ideias do dia na descrição.
-   - Envia a lista de ideias diretamente para o usuário, com notificação.
+   - Responde nesta conversa com a lista de ideias e o link do card criado.
 
 As instruções completas seguidas em cada disparo estão em
 [`prompts/daily_briefing.md`](prompts/daily_briefing.md).
