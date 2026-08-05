@@ -56,12 +56,19 @@ claramente moldando o meta atual).
 
 7. **Commitar e dar push** do arquivo no branch de trabalho do repositório.
 
-8. **Entregar a lista de bullets diretamente na conversa com o usuário** —
-   esse é o entregável principal, não só o arquivo salvo.
+8. **Criar um card no Trello** no board **"Criação de conteúdo"**, lista
+   **"Ideias"**, com:
+   - Título: `Ideias de vídeo — AAAA-MM-DD` (data de hoje)
+   - Descrição: a lista completa de bullets gerada no passo 5, formatada em
+     markdown.
+   Um card novo por dia (não reaproveitar/editar o card de dias anteriores).
 
-9. **Nunca inventar números/estatísticas**. Se uma fonte não puder ser
-   confirmada, marcar como "via busca web, não confirmado" em vez de
-   apresentar como fato.
+9. **Entregar a lista de bullets diretamente na conversa com o usuário** —
+   esse é o entregável principal, junto com o link do card criado.
+
+10. **Nunca inventar números/estatísticas**. Se uma fonte não puder ser
+    confirmada, marcar como "via busca web, não confirmado" em vez de
+    apresentar como fato.
 
 ## Nota técnica
 

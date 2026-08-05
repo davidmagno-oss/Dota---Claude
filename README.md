@@ -16,6 +16,8 @@ longo, YouTube) sobre Dota 2, sempre ancorada em dados/eventos recentes
    - Gera de 8 a 12 ideias de vídeo em bullet points, misturando análise de
      jogadas/replays de pro com conteúdo de conceito/mentoria.
    - Salva o briefing em `briefings/AAAA-MM-DD.md`, commita e dá push.
+   - Cria um card no Trello, board **"Criação de conteúdo"**, lista
+     **"Ideias"**, com a lista de ideias do dia na descrição.
    - Envia a lista de ideias diretamente para o usuário, com notificação.
 
 As instruções completas seguidas em cada disparo estão em
