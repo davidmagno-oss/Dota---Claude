@@ -10,7 +10,14 @@ claramente moldando o meta atual).
 1. **Definir a janela de tempo**: hoje menos 5 dias. Qualquer dado, partida
    ou patch usado como gancho precisa estar dentro dessa janela.
 
-2. **Levantar dados recentes via WebSearch** (não há acesso direto a APIs
+2. **Ler `config/channels.md`** para pegar a lista completa de canais de
+   referência, por categoria. Depois, **olhar os 2-3 arquivos mais recentes
+   em `briefings/`** (se existirem) para ver quais canais já foram
+   pesquisados nos últimos dias e priorizar canais diferentes hoje —
+   assim a rotação cobre toda a lista ao longo da semana em vez de repetir
+   sempre os mesmos 2-3 canais.
+
+3. **Levantar dados recentes via WebSearch** (não há acesso direto a APIs
    externas neste ambiente — ver nota técnica no final). Fazer buscas
    direcionadas cobrindo:
    - Patch/balance update mais recente ("Dota 2 patch notes [semana atual]",
@@ -24,16 +31,24 @@ claramente moldando o meta atual).
      + "results").
    - Jogadas/replays notáveis dos últimos dias (upsets, plays de destaque,
      performances de times/jogadores específicos).
-   - Opcional, best-effort: buscar por 2-3 canais da lista de referência
-     (`config/channels.md`) + "Dota 2" para sentir que temas estão em alta
-     na comunidade agora.
+   - **Obrigatório: uploads recentes de canais de referência.** Escolher
+     pelo menos 5-6 canais de `config/channels.md`, cobrindo categorias
+     diferentes (ex.: um de Highlights, um de Guias, um de Streamers/Pro,
+     um de Analistas, um Internacional, um do Brasil), e buscar
+     `"[nome do canal]" Dota 2` (ou `"[nome do canal]" youtube` se o nome
+     for muito genérico) para ver os vídeos mais recentes de cada um. Usar
+     isso para:
+     - Saber que temas/heróis/partidas a comunidade já está cobrindo agora,
+       e evitar sugerir uma ideia idêntica a um vídeo que acabou de sair.
+     - Puxar ganchos de criatividade reais (formato, ângulo, humor) desses
+       canais para as ideias do passo 5, não só citar o nome do canal como
+       decoração de estilo.
+     - Registrar na seção `## Fontes` quais canais foram checados hoje e,
+       se relevante, o que eles já cobriram.
 
-3. **Filtrar por data**: descartar qualquer resultado de busca mais antigo
+4. **Filtrar por data**: descartar qualquer resultado de busca mais antigo
    que 5 dias, exceto quando ainda for claramente o assunto dominante do
    meta atual (ex.: um patch de 6 dias atrás que ainda é a versão vigente).
-
-4. **Ler `config/channels.md`** para pegar a lista completa de canais de
-   referência, por categoria.
 
 5. **Gerar de 8 a 12 ideias de vídeo**, em português, em formato de lista
    rápida (bullet points), misturando os dois ângulos pedidos:
@@ -52,6 +67,8 @@ claramente moldando o meta atual).
 6. **Salvar o briefing** em `briefings/AAAA-MM-DD.md` com as seções:
    - `## Contexto da semana` (patch atual + resumo curto do meta)
    - `## Ideias de vídeo` (a lista de bullets)
+   - `## Canais checados hoje` (lista dos 5-6 canais pesquisados no passo 3
+     e o que cada um já cobriu recentemente, quando encontrado)
    - `## Fontes` (links/buscas usadas)
 
 7. **Commitar e dar push** do arquivo no branch de trabalho do repositório.
