@@ -31,13 +31,13 @@ claramente moldando o meta atual).
      + "results").
    - Jogadas/replays notáveis dos últimos dias (upsets, plays de destaque,
      performances de times/jogadores específicos).
-   - **Obrigatório: uploads recentes de canais de referência.** Escolher
-     pelo menos 5-6 canais de `config/channels.md`, cobrindo categorias
-     diferentes (ex.: um de Highlights, um de Guias, um de Streamers/Pro,
-     um de Analistas, um Internacional, um do Brasil), e buscar
-     `"[nome do canal]" Dota 2` (ou `"[nome do canal]" youtube` se o nome
-     for muito genérico) para ver os vídeos mais recentes de cada um. Usar
-     isso para:
+   - **Obrigatório: uploads recentes de canais de referência.** Checar
+     **10 canais de `config/channels.md` todos os dias**, cobrindo o
+     máximo de categorias diferentes possível (Highlights, Guias,
+     Streamers/Pro, Analistas, China, CIS, Custom Games, Oficiais, Outros,
+     Brasil), e buscar `"[nome do canal]" Dota 2` (ou `"[nome do canal]"
+     youtube` se o nome for muito genérico) para ver os vídeos mais
+     recentes de cada um. Usar isso para:
      - Saber que temas/heróis/partidas a comunidade já está cobrindo agora,
        e evitar sugerir uma ideia idêntica a um vídeo que acabou de sair.
      - Puxar ganchos de criatividade reais (formato, ângulo, humor) desses
@@ -67,7 +67,7 @@ claramente moldando o meta atual).
 6. **Salvar o briefing** em `briefings/AAAA-MM-DD.md` com as seções:
    - `## Contexto da semana` (patch atual + resumo curto do meta)
    - `## Ideias de vídeo` (a lista de bullets)
-   - `## Canais checados hoje` (lista dos 5-6 canais pesquisados no passo 3
+   - `## Canais checados hoje` (lista dos 10 canais pesquisados no passo 3
      e o que cada um já cobriu recentemente, quando encontrado)
    - `## Fontes` (links/buscas usadas)
 

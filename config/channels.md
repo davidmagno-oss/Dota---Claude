@@ -11,7 +11,7 @@ sobre a jogada X do patch atual").
 - Dota Watafak
 - hOlyhexOr
 - Jenkins Clips
-- BananaSlamJamma (BSJ)
+- BananaSlamJamma (BSJ) — https://www.youtube.com/@BananaSlamJamma
 
 ## 📚 Guias & Educacional
 - Purge
