@@ -11,7 +11,6 @@ sobre a jogada X do patch atual").
 - Dota Watafak
 - hOlyhexOr
 - Jenkins Clips
-- BananaSlamJamma (BSJ) — https://www.youtube.com/@BananaSlamJamma
 
 ## 📚 Guias & Educacional
 - Purge
@@ -19,16 +18,19 @@ sobre a jogada X do patch atual").
 - ZQuixotix
 - Dota Alchemy
 - NoobFromUA
+- AceDota — https://www.youtube.com/@ace.dota2
 
 ## 🎮 Streamers / Pro players
 - Gorgc
 - SingSing
 - AdmiralBulldog
-- BaloonDota
+- Topson — https://www.youtube.com/@TopsonOG
 
 ## 🗣️ Analistas & Casters
 - Aui_2000
-- Rizpol
+- BananaSlamJamma (BSJ) — https://www.youtube.com/@BananaSlamJamma
+- RDO Dota
+- BaloonDota
 
 ## 🌍 China
 - BurNing
@@ -37,9 +39,6 @@ sobre a jogada X do patch atual").
 ## 🌍 Rússia / CIS
 - Kryptonill Gaming
 - DotA Digest
-
-## 🎨 Custom Games
-- Baumi
 
 ## 🏆 Oficiais
 - ESL Dota 2
@@ -53,8 +52,8 @@ sobre a jogada X do patch atual").
 - NK Dota 2
 
 ## 🇧🇷 Brasil
-- RDO Dota
 - Astini
+- Sensuyy — https://www.youtube.com/@Sensuyy
 
 ---
 
