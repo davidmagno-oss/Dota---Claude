@@ -16,7 +16,7 @@ sobre a jogada X do patch atual").
 - Purge
 - GameLeap
 - ZQuixotix
-- Dota Alchemy
+- Dota Alchemy — ⚠️ checagem de 10/08/2026 sugere canal inativo desde 2020, confirmar
 - NoobFromUA
 - AceDota — https://www.youtube.com/@ace.dota2
 
@@ -30,7 +30,7 @@ sobre a jogada X do patch atual").
 - Aui_2000
 - BananaSlamJamma (BSJ) — https://www.youtube.com/@BananaSlamJamma
 - RDO Dota
-- BaloonDota
+- BalloonDota — nome corrigido em 10/08/2026 (era "BaloonDota")
 
 ## 🌍 China
 - BurNing
@@ -47,7 +47,7 @@ sobre a jogada X do patch atual").
 
 ## 📈 Outros
 - Holy E
-- Kardel
+- Kardel — ⚠️ checagem de 09/08/2026 não achou um canal claro com esse nome (só resultados sobre o herói Sniper), confirmar
 - DATOHLEONG
 - NK Dota 2
 
