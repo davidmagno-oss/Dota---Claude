@@ -34,7 +34,7 @@ sobre a jogada X do patch atual").
 
 ## 🌍 China
 - BurNing
-- MickeyToss
+- MickeyToss — ⚠️ checagens de 09/08 e 11/08/2026 não confirmaram conteúdo de Dota 2 recente (resultados se misturam com canais homônimos de outros assuntos), confirmar handle exato
 
 ## 🌍 Rússia / CIS
 - Kryptonill Gaming
