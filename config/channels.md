@@ -14,7 +14,7 @@ sobre a jogada X do patch atual").
 
 ## 📚 Guias & Educacional
 - Purge
-- GameLeap
+- GameLeap — ⚠️ checagem de 12/08/2026: Speeed anunciou (jan/2026) que o canal está sendo descontinuado e virando o canal pessoal dele, confirmar
 - ZQuixotix
 - Dota Alchemy — ⚠️ checagem de 10/08/2026 sugere canal inativo desde 2020, confirmar
 - NoobFromUA
